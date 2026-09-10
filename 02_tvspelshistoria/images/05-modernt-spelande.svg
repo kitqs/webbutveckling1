@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Modernt spelande på flera plattformar</title>
+  <desc id="desc">Ett VR-headset, en handhållen enhet och ett moln binds samman av ljusspår.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071b2d"/><stop offset=".55" stop-color="#173f5f"/><stop offset="1" stop-color="#6b2c72"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M160 495C250 305 410 400 510 252S790 112 1010 232" fill="none" stroke="#54e0d1" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+  <g transform="translate(410 82)">
+    <path d="M89 112c0-65 52-112 121-112h80c69 0 121 47 121 112v37H89z" fill="#eef4f8"/>
+    <path d="M40 145c0-25 20-45 45-45h330c25 0 45 20 45 45v80c0 31-25 56-56 56h-76c-23 0-43-13-53-33l-12-25h-26l-12 25c-10 20-30 33-53 33H96c-31 0-56-25-56-56z" fill="#dfe8ed" stroke="#ffffff" stroke-width="9"/>
+    <rect x="84" y="132" width="332" height="88" rx="38" fill="#132b46"/>
+    <ellipse cx="190" cy="176" rx="54" ry="27" fill="#50d5c8" opacity=".75"/><ellipse cx="310" cy="176" rx="54" ry="27" fill="#d66b8d" opacity=".75"/>
+  </g>
+  <g transform="translate(80 365)">
+    <rect x="0" y="0" width="360" height="190" rx="46" fill="#edf3f5" stroke="#ffffff" stroke-width="9"/>
+    <rect x="72" y="22" width="216" height="146" rx="10" fill="#0b7b78"/>
+    <path d="M86 133l54-54 44 36 50-59 40 44v68H86z" fill="#8be8df"/>
+    <circle cx="34" cy="93" r="18" fill="#173f5f"/><circle cx="326" cy="78" r="12" fill="#d66b28"/><circle cx="326" cy="112" r="12" fill="#173f5f"/>
+  </g>
+  <g transform="translate(835 345)">
+    <path d="M65 160h235c42 0 75-30 75-68 0-35-28-64-65-68C294-17 251-39 206-24c-36 12-60 39-68 72-39-14-88 11-88 55 0 32 27 57 65 57z" fill="#f6c85f" stroke="#fff4c8" stroke-width="9"/>
+    <path d="M128 198h165" stroke="#50d5c8" stroke-width="10" stroke-linecap="round"/><path d="M155 233h110" stroke="#50d5c8" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g fill="#ffffff" opacity=".32"><circle cx="92" cy="104" r="9"/><circle cx="1080" cy="118" r="12"/><circle cx="740" cy="540" r="7"/><circle cx="280" cy="230" r="6"/></g>
+</svg>

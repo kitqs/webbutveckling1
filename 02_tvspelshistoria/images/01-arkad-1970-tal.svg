@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Retroinspirerad spelhall</title>
+  <desc id="desc">En arkadmaskin med ett enkelt paddelspel, omgiven av lysande pixlar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10233d"/><stop offset="1" stop-color="#3f185d"/></linearGradient>
+    <linearGradient id="cab" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f05a7e"/><stop offset="1" stop-color="#b53263"/></linearGradient>
+    <pattern id="scan" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M0 11.5H12" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#scan)"/>
+  <circle cx="180" cy="145" r="65" fill="#22d3c5" opacity=".18"/><circle cx="1010" cy="120" r="95" fill="#ffd166" opacity=".14"/>
+  <g fill="#ffd166"><rect x="105" y="92" width="24" height="24"/><rect x="158" y="64" width="16" height="16"/><rect x="1034" y="222" width="22" height="22"/><rect x="1080" y="182" width="14" height="14"/></g>
+  <g transform="translate(365 70)">
+    <path d="M95 0h375l50 105-26 375H70L44 105z" fill="url(#cab)" stroke="#ff8eaa" stroke-width="10"/>
+    <rect x="105" y="75" width="350" height="230" rx="12" fill="#071522" stroke="#ffd166" stroke-width="8"/>
+    <rect x="137" y="108" width="286" height="164" fill="#102944"/>
+    <rect x="166" y="151" width="13" height="83" fill="#f7f3e8"/><rect x="381" y="151" width="13" height="83" fill="#f7f3e8"/>
+    <rect x="272" y="184" width="17" height="17" fill="#ffd166"/>
+    <path d="M95 330h375l38 88H58z" fill="#d3416c" stroke="#ff8eaa" stroke-width="8"/>
+    <circle cx="184" cy="372" r="28" fill="#22d3c5" stroke="#0b5961" stroke-width="8"/><rect x="290" y="351" width="54" height="18" rx="9" fill="#ffd166"/>
+    <rect x="148" y="480" width="266" height="82" rx="8" fill="#8f294f"/><path d="M180 520h202" stroke="#ff8eaa" stroke-width="8"/>
+  </g>
+  <path d="M0 590L250 515l190 62 212-71 250 74 298-68v163H0z" fill="#071522" opacity=".75"/>
+</svg>

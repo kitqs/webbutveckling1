@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Tredimensionell spelvärld</title>
+  <desc id="desc">Ett polygonlandskap och ett perspektivnät symboliserar 3D-spelens genombrott.</desc>
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#32175f"/><stop offset="1" stop-color="#cb3f78"/></linearGradient><linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff2a6"/><stop offset="1" stop-color="#ff8a63"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <circle cx="600" cy="245" r="125" fill="url(#sun)"/>
+  <path d="M0 430l178-126 140 70 120-129 173 122 137-100 214 151 238-134v391H0z" fill="#172443"/>
+  <path d="M0 470l190-115 126 77 127-110 168 101 140-88 217 123 232-105" fill="none" stroke="#5de0d1" stroke-width="7"/>
+  <g stroke="#5de0d1" stroke-width="3" opacity=".75">
+    <path d="M0 675L600 430 1200 675"/><path d="M118 675L600 430 1082 675"/><path d="M250 675L600 430 950 675"/><path d="M410 675L600 430 790 675"/>
+    <path d="M0 610h1200"/><path d="M94 558h1012"/><path d="M190 518h820"/><path d="M285 486h630"/><path d="M382 460h436"/>
+  </g>
+  <g transform="translate(842 92)"><ellipse cx="112" cy="112" rx="107" ry="46" fill="#d6e6f0" opacity=".9"/><ellipse cx="112" cy="112" rx="48" ry="106" fill="none" stroke="#ffffff" stroke-width="9" opacity=".8"/><ellipse cx="112" cy="112" rx="107" ry="46" fill="none" stroke="#ffffff" stroke-width="9" opacity=".8"/><circle cx="112" cy="112" r="16" fill="#f6c85f"/></g>
+  <g fill="#ffffff" opacity=".75"><rect x="98" y="116" width="15" height="15"/><rect x="162" y="80" width="9" height="9"/><rect x="1040" y="310" width="13" height="13"/></g>
+</svg>
